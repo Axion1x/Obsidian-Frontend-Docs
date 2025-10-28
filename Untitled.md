@@ -1,1 +1,0 @@
-tempo text fasdsadfajshdflashfl as;sdl fasldkjfhasldkf asdfasdfas
