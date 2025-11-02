@@ -166,12 +166,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4675b9ac34eea969",
+  "active": "4b3152c8a741447e",
   "lastOpenFiles": [
+    "Tooling/DevOps and Automation",
+    "Tooling/Testing",
+    "Tooling/Code Quality",
+    "Tooling/Build Tools",
+    "Tooling",
+    "Frameworks/Next.js",
+    "Frameworks/React",
+    "Frameworks",
+    "Fundamentals/Computer Internals",
+    "Fundamentals/Browser Internals",
+    "Fundamentals/TypeScript",
     "Untitled.md",
     "HTML/Untitled 1.md",
-    "temporary",
-    "HTML/Untitled.md",
-    "HTML"
+    "HTML/Untitled.md"
   ]
 }
