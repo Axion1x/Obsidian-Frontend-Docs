@@ -166,9 +166,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b3152c8a741447e",
+  "active": "4675b9ac34eea969",
   "lastOpenFiles": [
-    "Tooling/Package Managers/Untitled",
+    "Tooling/Package Managers/pnpm",
+    "Tooling/Package Managers/yarn",
+    "Tooling/Package Managers/npm",
     "Architecture/API design/tRPC",
     "Tooling/Testing/Base.md",
     "Architecture/API design/GraphQL",
@@ -178,8 +180,6 @@
     "Tooling/Linters and Formatters/Untitled",
     "Frameworks/React/Untitled",
     "Frameworks/React/State management",
-    "Frameworks/React/Hooks",
-    "Tooling/Testing/RTL",
     "Untitled.md",
     "HTML/Untitled 1.md",
     "HTML/Untitled.md"
