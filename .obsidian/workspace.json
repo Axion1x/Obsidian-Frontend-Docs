@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/CSS/Basics.md",
+                "file": "Fundamentals/CSS/Core concepts/Display Positioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "Display Positioning"
             }
           }
         ]
@@ -170,9 +170,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4675b9ac34eea969",
+  "active": "4b3152c8a741447e",
   "lastOpenFiles": [
-    "Fundamentals/CSS/Basics.md",
+    "Fundamentals/CSS/Core concepts/Specificity Cascade Inheritance.md",
+    "Fundamentals/CSS/Core concepts/Display Positioning.md",
+    "Fundamentals/CSS/Core concepts/Colors and Backgrounds.md",
+    "Fundamentals/CSS/Core concepts/Units and Values.md",
+    "Fundamentals/CSS/Core concepts/Fonts and Text.md",
+    "Fundamentals/CSS/Core concepts/Box Model.md",
+    "Fundamentals/CSS/Layout systems/Responsive Design.md",
+    "Fundamentals/CSS/Core concepts",
+    "Fundamentals/CSS/Layout systems/Flexbox.md",
+    "Fundamentals/CSS/Layout systems/Grid.md",
+    "Fundamentals/CSS/Overview.md",
+    "Fundamentals/CSS/Layout systems",
     "Tooling/Styling Tools",
     "Tooling/Package Managers/pnpm",
     "Tooling/Package Managers/yarn",
@@ -182,8 +193,6 @@
     "Architecture/API design/GraphQL",
     "Architecture/API design/REST",
     "Architecture/API design",
-    "Tooling/Package Managers",
-    "Tooling/Linters and Formatters/Untitled",
     "Untitled.md",
     "HTML/Untitled 1.md",
     "HTML/Untitled.md"
