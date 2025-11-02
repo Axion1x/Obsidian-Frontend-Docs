@@ -166,20 +166,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b3152c8a741447e",
+  "active": "4675b9ac34eea969",
   "lastOpenFiles": [
+    "Architecture/API design/tRPC",
+    "Tooling/Testing/Base.md",
+    "Architecture/API design/GraphQL",
+    "Architecture/API design/REST",
+    "Architecture/API design",
+    "Tooling/Package Managers",
     "Tooling/Linters and Formatters/Untitled",
     "Frameworks/React/Untitled",
     "Frameworks/React/State management",
     "Frameworks/React/Hooks",
     "Tooling/Testing/RTL",
     "Tooling/Testing/Jest",
-    "Tooling/Testing/Base.md",
-    "Tooling/Linters and Formatters/Eslint",
-    "Tooling/Linters and Formatters/Prettier",
-    "Tooling/Build Tools/Webpack",
-    "Tooling/Build Tools/Babel",
-    "Tooling/Build Tools/Vite",
     "Untitled.md",
     "HTML/Untitled 1.md",
     "HTML/Untitled.md"
