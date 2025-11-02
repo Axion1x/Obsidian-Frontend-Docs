@@ -166,8 +166,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4675b9ac34eea969",
+  "active": "4b3152c8a741447e",
   "lastOpenFiles": [
+    "Tooling/Package Managers/Untitled",
     "Architecture/API design/tRPC",
     "Tooling/Testing/Base.md",
     "Architecture/API design/GraphQL",
@@ -179,7 +180,6 @@
     "Frameworks/React/State management",
     "Frameworks/React/Hooks",
     "Tooling/Testing/RTL",
-    "Tooling/Testing/Jest",
     "Untitled.md",
     "HTML/Untitled 1.md",
     "HTML/Untitled.md"
