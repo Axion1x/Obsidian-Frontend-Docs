@@ -166,8 +166,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4675b9ac34eea969",
+  "active": "4b3152c8a741447e",
   "lastOpenFiles": [
+    "Tooling/Styling Tools",
     "Tooling/Package Managers/pnpm",
     "Tooling/Package Managers/yarn",
     "Tooling/Package Managers/npm",
@@ -179,7 +180,6 @@
     "Tooling/Package Managers",
     "Tooling/Linters and Formatters/Untitled",
     "Frameworks/React/Untitled",
-    "Frameworks/React/State management",
     "Untitled.md",
     "HTML/Untitled 1.md",
     "HTML/Untitled.md"
