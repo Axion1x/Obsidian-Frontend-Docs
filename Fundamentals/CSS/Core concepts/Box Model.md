@@ -2,6 +2,7 @@ The CSS Box Model is a fundamental concept that defines how browsers calculate t
 
 Each layer affects how much space the element occupies and how it interacts with surrounding elements.
 
+
 --- 
 #### Core Components of the Box Model
 - **Content**  
