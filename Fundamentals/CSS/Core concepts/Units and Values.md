@@ -32,7 +32,6 @@ div.box {
 Always exactly 200px wide regardless of parent or screen size.
 
 ---
-### Relative Units & Percentages
 
 ## 2. Relative Units
 
@@ -58,20 +57,14 @@ p {
 div.container {
   width: 50vw; /* 50% of viewport width */
 }
-em scales with parent font size
+```
 
-rem scales with root font size
+- em scales with parent font size
+- rem scales with root font size
+- vw / vh scale with viewport
 
-vw / vh scale with viewport
-
-perl
-Копіювати код
 
 ---
-
-### **Частина 3: Special Values & Tips**
-
-```markdown
 ## 3. Special Values
 
 | Value | Description | Example |
