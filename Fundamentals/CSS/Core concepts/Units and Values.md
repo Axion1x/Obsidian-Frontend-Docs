@@ -11,14 +11,14 @@ Units can be divided into **absolute** and **relative** units.
 
 Absolute units are fixed and do **not scale** with the viewport or parent elements.  
 
-| Unit | Description | Example |
-|------|------------|---------|
-| `px` | Pixels, screen pixels | `width: 200px;` |
-| `pt` | Points, 1pt = 1/72in | `font-size: 12pt;` |
-| `cm` | Centimeters | `margin: 2cm;` |
-| `mm` | Millimeters | `margin: 10mm;` |
-| `in` | Inches | `width: 1in;` |
-| `pc` | Picas, 1pc = 12pt | `margin: 2pc;` |
+| Unit | Description           | Example            |
+| ---- | --------------------- | ------------------ |
+| `px` | Pixels, screen pixels | `width: 200px;`    |
+| `pt` | Points, 1pt = 1/72in  | `font-size: 12pt;` |
+| `cm` | Centimeters           | `margin: 2cm;`     |
+| `mm` | Millimeters           | `margin: 10mm;`    |
+| `in` | Inches                | `width: 1in;`      |
+| `pc` | Picas, 1pc = 12pt     | `margin: 2pc;`     |
 
 **Example:**
 
@@ -85,6 +85,7 @@ div.box {
   width: calc(100% - 20px);
   max-width: 500px;
 }
-calc() allows combining units (%, px, em, rem)
+```
 
-min-content, max-content useful for flexible layouts
+- calc() allows combining units (%, px, em, rem)
+- min-content, max-content useful for flexible layouts
