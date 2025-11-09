@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/CSS/Core concepts/CSS Specificity & Cascade.md",
+                "file": "Fundamentals/CSS/Core concepts/Units and Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Specificity & Cascade"
+              "title": "Units and Values"
             }
           }
         ]
@@ -170,13 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4675b9ac34eea969",
+  "active": "4b3152c8a741447e",
   "lastOpenFiles": [
-    "Fundamentals/CSS/Core concepts/Box Model.md",
+    "Fundamentals/CSS/Core concepts/Fonts and Text.md",
+    "Fundamentals/CSS/Core concepts/Display Positioning.md",
     "Fundamentals/CSS/Core concepts/Colors and Backgrounds.md",
     "Fundamentals/CSS/Core concepts/CSS Specificity & Cascade.md",
-    "Fundamentals/CSS/Core concepts/Display Positioning.md",
-    "Fundamentals/CSS/Core concepts/Fonts and Text.md",
+    "Fundamentals/CSS/Core concepts/Box Model.md",
     "Fundamentals/CSS/Core concepts/Units and Values.md",
     "Fundamentals/CSS/Overview.md",
     "Fundamentals/CSS/Layout systems/Flexbox.md",
