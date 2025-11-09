@@ -27,14 +27,12 @@ div.box {
   width: 200px;
   height: 100px;
 }
+```
+
 Always exactly 200px wide regardless of parent or screen size.
 
-go
-Копіювати код
-
 ---
-
-### **Частина 2: Relative Units & Percentages**
+### Relative Units & Percentages
 
 ```markdown
 ## 2. Relative Units
