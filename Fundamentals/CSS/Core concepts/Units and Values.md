@@ -34,7 +34,6 @@ Always exactly 200px wide regardless of parent or screen size.
 ---
 ### Relative Units & Percentages
 
-```markdown
 ## 2. Relative Units
 
 Relative units scale depending on the **parent element**, **root font size**, or **viewport**.
