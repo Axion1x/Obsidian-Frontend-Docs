@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/CSS/Core concepts/Colors and Backgrounds.md",
+                "file": "Fundamentals/CSS/Core concepts/Units and Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colors and Backgrounds"
+              "title": "Units and Values"
             }
           }
         ]
@@ -172,10 +172,10 @@
   },
   "active": "4675b9ac34eea969",
   "lastOpenFiles": [
+    "Fundamentals/CSS/Core concepts/Colors and Backgrounds.md",
     "Fundamentals/CSS/Core concepts/CSS Specificity & Cascade.md",
     "Fundamentals/CSS/Core concepts/Fonts and Text.md",
     "Fundamentals/CSS/Core concepts/Display Positioning.md",
-    "Fundamentals/CSS/Core concepts/Colors and Backgrounds.md",
     "Fundamentals/CSS/Core concepts/Units and Values.md",
     "Fundamentals/CSS/Core concepts/Box Model.md",
     "Fundamentals/CSS/Overview.md",
